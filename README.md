@@ -1,6 +1,6 @@
 # python_code
 
-Python practice code from the *Python for Everybody* specialization (University of Michigan, Coursera): core Python, data structures, web data and databases.
+Python code from the *Python for Everybody* specialization (University of Michigan, Coursera): core Python, data structures, web data and databases.
 
 ## Contents
 | Folder | Topics |
